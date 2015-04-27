@@ -1,3 +1,3 @@
 # mean
 A basic MEAN setup
-test
+test 2
